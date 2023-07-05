@@ -1,6 +1,6 @@
 # singing_logining
 
-A new Flutter project.
+This is a Singing and login flutter app.
 
 ## Getting Started
 
@@ -8,9 +8,17 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/mhossain11/Singing-Login-Flutter/assets/56032040/ad5059e6-285b-401f-afe4-f58511ce6db8
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Technology Used
+Dart
+# Working Features
+ SharedPreferences,
+ splash screen,
+ Singin Screen,
+ Login Screen,
+ Screen Mode,
+ Validation EditText, Password.
+
+
+ 
